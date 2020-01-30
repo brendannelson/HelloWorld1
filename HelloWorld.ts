@@ -5,4 +5,8 @@ class HelloWorld {
     greet() {
         
     }
+
+    showGreet() {
+        console.log(Hello)
+    }
 }
